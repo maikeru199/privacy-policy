@@ -10,7 +10,7 @@ This application (“英単語マスター2000”, the “App”) respects your 
 The App stores the following information **on your device only** for providing the service and improving the learning experience. **No data is sent to or stored on our servers.**
 - **Learning data**: answer history, progress, review intervals, learning goals (stored locally via Core Data)
 - **App settings**: learning targets, display/audio preferences, etc. (stored locally via UserDefaults)
-- **Purchase status**: entitlement for the full-access in‑app purchase (stored locally via Keychain)
+- **Purchase status**: entitlement for the full‑access in‑app purchase (stored locally via Keychain)
 
 *At this time, the App does not request device permissions such as location, contacts, photos, camera, microphone, or notifications.*
 
